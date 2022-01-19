@@ -35,7 +35,7 @@ fi
 WORKPREFIX="/tmp/opnsense-revert"
 OPENSSL="/usr/local/bin/openssl"
 WORKDIR=${WORKPREFIX}/${$}
-PKG="pkg-static"
+PKG="pkg"
 
 DO_INSECURE=
 DO_LOCKKEEP=

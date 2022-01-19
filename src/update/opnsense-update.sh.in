@@ -43,7 +43,7 @@ DEBUGDIR="/usr/lib/debug"
 KERNELDIR="/boot/kernel"
 TEE="/usr/bin/tee -a"
 PRODUCT="OPNsense"
-PKG="pkg-static"
+PKG="pkg"
 RELEASE="%%RELEASE%%"
 
 PENDINGDIR="${WORKPREFIX}/.sets.pending"
