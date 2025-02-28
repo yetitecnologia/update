@@ -27,7 +27,7 @@
 
 set -e
 
-URL="https://github.com/opnsense/core/archive"
+URL="https://github.com/yetitecnologia/core/archive"
 WORKDIR="/tmp/opnsense-bootstrap"
 RELEASE="%%RELEASE%%"
 FREEBSD="%%FREEBSD%%"
